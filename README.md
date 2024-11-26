@@ -50,7 +50,7 @@
 
 ### Пример сгенерированного номера
 
-![Пример номера](generated_plates_multiple_regions/train/images/A123BC123.png)
+![Пример номера](generated_plates_multiple_regions/train/images/A000AO222.png)
 
 ### Пример аннотации
 
